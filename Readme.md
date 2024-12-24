@@ -47,4 +47,10 @@ rate = 1     if plate > forest
 rate = 0.8   if plate < forest
 ```
 
+## 測試
+使用參數：population_size = 1000
+genrations = 200
+範例:
+![image](https://github.com/pontusjacky/RPGGAME/blob/main/output1/generation_1000_1.png)
+
 
