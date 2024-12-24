@@ -53,6 +53,7 @@ rate = 0.8   if plate < forest
 - genrations = 200
 
 **生成地圖範例**:
+
 ![image](https://github.com/pontusjacky/RPGGAME/blob/main/output1/generation_1000_1.png)
 
 
