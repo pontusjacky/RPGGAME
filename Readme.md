@@ -29,9 +29,9 @@
 
 ###適應度計算公式
 ```
-(0.5 * diversity_score + 0.5 * continuity_score - 2 * penalty_score)*rate
-rate = 1 if plate > forest
-else = 0.8
+fitness score = (0.5 * diversity_score + 0.5 * continuity_score - 2 * penalty_score)*rate
+rate = 1     if plate > forest
+rate = 0.8   if plate < forest
 ```
 
 
